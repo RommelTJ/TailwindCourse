@@ -2,7 +2,7 @@
 
 Tailwind CSS from scratch
 
-Version: 0.0.0 - 6 Mar 2024
+Version: 0.0.1 - 6 Mar 2024
 
 ## Description
 
