@@ -13,3 +13,8 @@ npx tailwindcss init
 ```
 
 Configurations are my personal preferences.
+
+## Directives
+
+The '@'-functions that provide additional functionality.   
+Ex: '@layer'
