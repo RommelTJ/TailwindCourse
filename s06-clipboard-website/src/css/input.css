@@ -2,6 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+    background-image: url("../images/bg-header-desktop.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+@media (max-width: 576px) {
+    body {
+        background-image: url("../images/bg-header-mobile.png");
+    }
+}
+
 .bai-jamjuree-extralight {
     font-family: "Bai Jamjuree", sans-serif;
     font-weight: 200;
