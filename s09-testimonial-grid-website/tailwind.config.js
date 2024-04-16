@@ -8,7 +8,11 @@ module.exports = {
     xl: '1440px',
   },
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ['Barlow Semi Condensed', 'sans-serif'],
+      }
+    },
   },
   plugins: [],
 }
