@@ -19,10 +19,10 @@ module.exports = {
       },
       backgroundImage: (theme) => {
         return {
-          'logo-dark-mode': "url('./src/images/logo-dark-mode.svg')",
-          'logo-light-mode': "url('./src/images/logo-light-mode.svg')",
-          'curvy-dark-mode': "url('./src/images/bg-curvy-dark-mode.svg')",
-          'curvy-light-mode': "url('./src/images/bg-curvy-light-mode.svg')",
+          'logo-dark-mode': "url('../images/logo-dark-mode.svg')",
+          'logo-light-mode': "url('../images/logo-light-mode.svg')",
+          'curvy-dark-mode': "url('../images/bg-curvy-dark-mode.svg')",
+          'curvy-light-mode': "url('../images/bg-curvy-light-mode.svg')",
         }
       }
     },
