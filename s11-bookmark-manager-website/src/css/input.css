@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.ficon:hover {
+    filter: invert(79%) sepia(61%) saturate(464%) hue-rotate(130deg) brightness(89%) contrast(85%);
+}
+
 @media screen(lg) {
     .bg-hero {
         width: 2000px;
